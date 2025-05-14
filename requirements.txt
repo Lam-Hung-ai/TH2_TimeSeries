@@ -1,0 +1,6 @@
+numpy
+hmmlearn
+matplotlib
+pykalman
+scipy
+filterpy
